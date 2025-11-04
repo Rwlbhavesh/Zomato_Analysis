@@ -1,8 +1,5 @@
 # 🍽️ Zomato Restaurant Data Analysis | Power BI Project  
 
-### 📅 Date: 21-April-2025  
-**Author:** Bhavesh Rawal  
-
 ---
 
 ## 📊 Project Overview  
